@@ -1,0 +1,13 @@
+/world*/
+/plugins/*/
+/cache
+/backups
+/libraries
+/logs
+/versions
+.console_history
+map-color-cache.dat
+usercache.json
+version_history.json
+paper*.jar
+server*.jar
